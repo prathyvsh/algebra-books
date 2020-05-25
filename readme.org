@@ -28,15 +28,15 @@ So this is a limited curation, feel free to send a PR in case you know of other 
 ** Advanced Modern Algebra - Rotman
 ** Advanced linear algebra - Steven Roman
 ** Basic Algebra I and II - Jacobson
-** Grillet
-** Isaacs
-** Rowen
+** [[https://amzn.to/3edsOj9][Abstract Algebra - Pierre Antoine Grillet]]
+** [[https://amzn.to/2Zw4tRv][Martin Isaacs]]
+** [[https://amzn.to/2Xq9lFc][Graduate Algebra: Noncommutative View - Rowen]]
 
 
 * Surveys/Reference
 
 ** [[https://amzn.to/2A5lAPu][A Brief Survey of Modern Algebra - Garrett Birkhoff and Saunders MacLane]]
-** Lang’s is considered as a good reference.
+** [[https://amzn.to/2XpaEnP][Algebra - Serge Lang]]
 
 * History
 
