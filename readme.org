@@ -1,0 +1,44 @@
+My interest in algebra stems from the idea that Computational Structures share much
+common ground with algebraic structures. This stems from the work of Eilenberg, Schützenberger,
+Chomsky, Minksy, et al. So my slant here is in understanding computational theory from the algebraic
+perspective. Nevertheless, a general grounding in the subject would help one navigate the landscape easily.
+So this is a limited curation, feel free to send a PR in case you know of other resources.
+
+* Learning
+
+** [[https://amzn.to/3c727eF][Algebra: Chapter 0 - Paulo Aluffi]]
+** [[https://amzn.to/3d19Z2u][Algebra - Michael Artin]]
+** [[https://amzn.to/2AQFfCX][A Book of Abstract Algebra - Charles C. Pinter]]
+** [[https://amzn.to/2ZwSLGg][Abstract Algebra - David S. Dummit and Richard M. Foote]]
+** Gallian's Contemporary Abstract Algebra
+** Herstein's Topics in Algebra
+** Hungerford's Abstract Algebra
+** [[https://amzn.to/2LUN3ps][Introduction to Abstract Algebra - Neal H. McCoy, Gerald J. Janusz]]
+** [[https://amzn.to/2ZEX4Q1][Modern Algebra: Structure and Method - Mary Dolciani]]
+** [[https://amzn.to/3ekcygn][Algebra Volume I - B. L. van der Waerden]]
+** [[https://amzn.to/2Tz2GaD][Fundamental Structures of Algebra - Mostow Sampson and Meyer]]
+** [[https://amzn.to/3edVqss][A First Course in Abstract Algebra - John B. Fraleigh]]
+** [[https://amzn.to/3bXU17J][An Introduction to Algebraic Structures - Joseph Landin]]
+** Hillman's and Alexandersen's Abstract Algebra: A First Undergraduate Course.
+** Allan Clark's Elements of Abstract Algebra
+** Visual Group Theory - Nathan Carter
+** Basic Algebra - Anthony W. Knapp
+** Fundamentals of Abstract Algebra - Malik, Sen & Mordeson
+** Algebra I and II - Falko Lorenz
+** Advanced Modern Algebra - Rotman
+** Advanced linear algebra - Steven Roman
+** Basic Algebra I and II - Jacobson
+** Grillet
+** Isaacs
+** Rowen
+
+
+* Surveys/Reference
+
+** [[https://amzn.to/2A5lAPu][A Brief Survey of Modern Algebra - Garrett Birkhoff and Saunders MacLane]]
+** Lang’s is considered as a good reference.
+
+* History
+
+** [[https://amzn.to/3ei10u0][A History of Abstract Algebra]]
+** [[https://amzn.to/2WikJDx][Modern Algebra and the Rise of Mathematical Structures - Leo Corry]]
