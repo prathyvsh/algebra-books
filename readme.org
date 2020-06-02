@@ -41,4 +41,7 @@ So this is a limited curation, feel free to send a PR in case you know of other 
 * History
 
 ** [[https://amzn.to/3ei10u0][A History of Abstract Algebra]]
+
+Book is a relatively short read that goes from the history of algebra to history of modern algebraic structures. In the end direction to create a course of teaching based on the historical evolution of the subject is given and caricatures of the eminent people involved in the industry of algebra is provided.
+
 ** [[https://amzn.to/2WikJDx][Modern Algebra and the Rise of Mathematical Structures - Leo Corry]]
