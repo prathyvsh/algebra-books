@@ -4,6 +4,32 @@ Chomsky, Minksy, et al. So my slant here is in understanding computational theor
 perspective. Nevertheless, a general grounding in the subject would help one navigate the landscape easily.
 So this is a limited curation, feel free to send a PR in case you know of other resources.
 
+* A Recommended List
+
+** Overview
+*** [[https://amzn.to/3iiAIu3][Realm of Algebra]] - Isaac Asimov
+
+** Basics
+*** A Book of Abstract Algebra - Charles Pinter
+** A Concrete Approach to Abstract Algebra - W. W. Sawyer
+
+** History
+TODO: Find good books on the history of algebra
+
+** After Basics
+*** Visual Group Theory - Nathar Carter
+*** Algebra: Chapter 0 - Aluffi
+
+** Universal Algebra
+*** A Course in Universal Algebra - Stanley Burris and H.P. Sankappanavar
+
+** Interactive Approach
+*** [[https://amzn.to/3ihXHp0][Abstract Algebra: A Computational Approach]]
+Charles C. Sims
+
+** Advanced History
+** [[https://amzn.to/2WikJDx][Modern Algebra and the Rise of Mathematical Structures - Leo Corry]]
+
 * Learning
 
 ** [[https://amzn.to/3c727eF][Algebra: Chapter 0 - Paulo Aluffi]]
