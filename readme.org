@@ -11,7 +11,7 @@ So this is a limited curation, feel free to send a PR in case you know of other 
 
 ** Basics
 *** A Book of Abstract Algebra - Charles Pinter
-** A Concrete Approach to Abstract Algebra - W. W. Sawyer
+*** A Concrete Approach to Abstract Algebra - W. W. Sawyer
 
 ** History
 TODO: Find good books on the history of algebra
